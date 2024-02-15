@@ -1,1 +1,1 @@
-# classical-and-quantum-artiificial-intelligence-notebooks
+# Classical and Quantum Artificial Intelligence Notebooks
